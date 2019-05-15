@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahkaekoof.jamaika.cn/sitemap.xml
